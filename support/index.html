@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<head>  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <script type="importmap">
+    {
+      "imports": {
+        "@material/web/": "https://esm.run/@material/web/"
+      }
+    }
+  </script>
+  <script type="module">
+    import '@material/web/all.js';
+    import {styles as typescaleStyles} from '@material/web/typography/md-typescale-styles.js';
+
+    document.adoptedStyleSheets.push(typescaleStyles.styleSheet);
+  </script>
+</head>
+<body>
+    <h1 class="md-typescale-display-medium">JMC MTR Support</h1>
+    <p class="md-typescale-body-medium">Welcome to the Support page! How can we help you today?</
+    <p>Issue type: </p>
+    <md-tabs>
+      <md-secondary-tab>MTR Issue</md-secondary-tab>
+      <md-secondary-tab>Bug Report</md-secondary-tab>
+      <md-secondary-tab>General</md-secondary-tab>
+    </md-tabs>
+    <p> </p>
+    <md-outlined-text-field label="Name" value="">
+    </md-outlined-text-field>
+    <p> </p
+    <md-outlined-text-field label="Id" value="">
+    </md-outlined-text-field>
+    <p> </p>
+    <md-outlined-text-field label="Subject" value="">
+    </md-outlined-text-field>
+    <p> </p>
+    <md-outlined-text-field label="Type what your need support with?" value="">
+    </md-outlined-text-field>
+
+    <md-filled-button
+        href="https://jv-lab-create.github.io"
+        target="_blank"
+        trailing-icon>
+        Submit
+    </md-filled-button>
+  
+</body>
