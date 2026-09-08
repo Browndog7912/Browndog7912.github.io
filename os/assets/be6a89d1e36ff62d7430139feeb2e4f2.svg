@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="499.8999938964844" height="28.777700424194336" viewBox="-0.3499999940395355 -0.4276999980211258 499.8999938964844 28.777700424194336">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#616161" stop-opacity="1"/>
+      <stop offset="1" stop-color="#2E2E2E" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-.0291666984558105,0,0,0.18297874927520752,5.05,-57.2" y2="8.6723" x2="5.05" x1="5.05" y1="0.0723" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#616161" stop-opacity="1"/>
+      <stop offset="1" stop-color="#2E2E2E" stop-opacity="1"/>
+    </linearGradient></defs>
+  
+  <image id="ID0.3216891000047326" width="960" height="53" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA8AAAAA1CAYAAACOYYKsAAACt0lEQVR42u3dXW6CQBSA0TFx/1vqqprUqtBAokFlBqRGucM5L1igtpm3L5effUrpKwEAAMD6tAuOt7ntvvCFO2sNAADACkJ36fnDCO4D+FX/AAAAAHwylNvSeXvrBwAAQODozcVvOxbAJr0AAADUEMm5+J28BBoAAAAihO9k/HYfTIABAACIHL4p5Z8GfRPIAhgAAICo4Zs7PrYVwAAAAFQRxKVLoJvugwAGAAAgYvDO2Te8DLqfADfWEAAAgOBR3Gai+BLBDwG8s3YAAACsIGiXnjc6/R0G8O7JPwQAAACfDuG2cO59CLsEGgAAgPBxPPUO4Ot7gM/WDgAAgMARPPW5EcAAAABEj9/hz5MT4FPy8CsAAADWHbml47l7gB8egnUanCCEAQAAiBK+uWNj2z6ADwIYAACAIAH8TPheNJcAPgpfAAAAgoXwnPcA32wvAZxEMAAAAAHCd+ycOe8BTsMABgAAgEhRPPdBWNcA/rWWAAAAbCGAD9YSAACAwDE8+xJoAQwAAED0CB4L35utAAYAAKCmIG5z+9wDDAAAQLTIzR0r3gfcBfDP3UGvQwIAAGBNgbs0iIcB7B5gAAAAqorn7Of7ADb9BQAAYA0hu+T80iXQ/QT4+4kvF8gAAAC8K3D/+/039wZ7CBYAAAC1BHXx59I9wKa9AAAAvDtiX/H7o/tMgAEAAKglltvSfgEMAABA7QHcHxPAAAAA1BjFD/u7AD5aLwAAACoPYBNgAAAAthHJXQCfrAUAAAA1RK4ABgAAYCuxmyWAAQAA2EQsdwF8th4AAADUFrz3PAUaAACATQRxF8CN9QAAAEAAAwAAQAURLIABAACoKnRz9mnh46MBAAAgWgCbAAMAAFA9E2AAAAA2E8AAAAAQ2azBrgkwAAAAm4hgAQwAAMAmuAQaAACASBYPcf8A7Zn6FJObCSMAAAAtdEVYdFNvZnR3YXJlAGJ5LmJsb29kZHkuY3J5cHRvLmltYWdlLlBORzI0RW5jb2RlcqgGf+4AAAAASUVORK5CYII=" transform="matrix(0.5104166865348816,0,0,0.5,0.15,1.35)" stroke-width="1" style="image-rendering: optimizespeed; image-rendering: pixelated;"/>
+  <path id="ID0.9423229075036943" fill="url(#grad_1-.0291666984558105,0,0,0.18297874927520752,5.05,-57.2)" stroke="none" d="M 5.05 0.0723 L 499.05 0.0723 L 499.05 8.6723 L 5.05 8.6723 L 5.05 0.0723 Z " stroke-width="0.7391431917757048"/>
+  <path id="ID0.9423229075036943" fill="#000000" stroke="none" d="M 6.25 8.5138 L 493.25 8.5138 L 493.25 15.9638 L 6.25 15.9638 L 6.25 8.5138 Z " stroke-width="0.7261215464132923"/>
+</svg>

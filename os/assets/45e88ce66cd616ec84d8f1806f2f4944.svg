@@ -1,0 +1,59 @@
+<svg viewBox="-0.635011270317945 -0.8350112732981773 565.6700225465963 361.67002254659633" height="361.67002254659633" width="565.6700225465963" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x2="0" y2="1" id="grad_1">
+      <stop stop-opacity="1" stop-color="#666666" offset="0"></stop>
+      <stop stop-opacity="1" stop-color="#2B2B2B" offset="1"></stop>
+    </linearGradient>
+    <linearGradient x2="0" y2="1" id="grad_2">
+      <stop stop-opacity="1" stop-color="#1458E8" offset="0"></stop>
+      <stop stop-opacity="1" stop-color="#0EA3F5" offset="1"></stop>
+    </linearGradient>
+    <linearGradient x2="0" y2="1" id="grad_3">
+      <stop stop-opacity="1" stop-color="#0EA3F5" offset="0"></stop>
+      <stop stop-opacity="0" stop-color="#0EA3F5" offset="1"></stop>
+    </linearGradient>
+  <linearGradient gradientUnits="userSpaceOnUse" y1="341.7879" x1="0.2" x2="0.2" y2="351.6065" id="grad_1-.1750000715255737,0,0,0.20890690386295319,0.2,276.4">
+      <stop stop-opacity="1" stop-color="#666666" offset="0"></stop>
+      <stop stop-opacity="1" stop-color="#2B2B2B" offset="1"></stop>
+    </linearGradient><linearGradient gradientUnits="userSpaceOnUse" y1="29.4274" x1="41.9101" x2="41.9101" y2="61.2185" id="grad_2-.2298299074172974,0,0,1.2298299074172974,-131.25,-166.3">
+      <stop stop-opacity="1" stop-color="#1458E8" offset="0"></stop>
+      <stop stop-opacity="1" stop-color="#0EA3F5" offset="1"></stop>
+    </linearGradient><linearGradient gradientUnits="userSpaceOnUse" y1="29.3506" x1="44.0161" x2="44.0161" y2="49.7912" id="grad_3-.6433072090148926,0,0,1.696317195892334,-381.6,-532.3">
+      <stop stop-opacity="1" stop-color="#0EA3F5" offset="0"></stop>
+      <stop stop-opacity="0" stop-color="#0EA3F5" offset="1"></stop>
+    </linearGradient></defs>
+  
+  <path stroke-width="1" d="M 83 0 L 498 0 L 498 360 L 83 360 L 83 0 Z" stroke="none" fill="#FFFFFF" id="ID0.6461220923811197"></path>
+  <path stroke-width="1" d="M 18 0 L 97 0 L 97 360 L 18 360 L 18 0 Z" stroke="none" fill="#535353" id="ID0.16602938156574965"></path>
+  <g id="ID0.9066081582568586">
+    <path stroke-width="0.8438801048036114" d="M 0.2 341.7879 L 564.2 341.7879 L 564.2 351.6065 L 0.2 351.6065 L 0.2 341.7879 Z" stroke="none" fill="url(#grad_1-.1750000715255737,0,0,0.20890690386295319,0.2,276.4)" id="ID0.9423229075036943"></path>
+    <path stroke-width="0.8290132699016971" d="M 1.7 351.4441 L 557.7081 351.4441 L 557.7081 359.9498 L 1.7 359.9498 L 1.7 351.4441 Z" stroke="none" fill="#000000" id="ID0.9423229075036943"></path>
+  </g>
+  <g id="ID0.5334178386256099">
+    <path d="M 258.1506 356.7923 L 258.1506 345.735 L 246.3281 345.735 L 245.668 345.81 L 245.1729 346.1401 L 244.9778 346.8302 L 244.9778 355.337 L 245.1279 356.1922 L 245.623 356.6873 L 246.4781 356.8373 L 258.1506 356.7923 Z" stroke-linecap="round" stroke-width="0.6001245379447937" stroke="#2B2B2B" fill="none" id="ID0.19238362507894635"></path>
+    <path stroke-width="0.7455621361732483" d="M 248.671 351.2615 L 252.8834 347.832 L 252.8834 354.7284 L 248.671 351.2615 Z" stroke-linecap="round" stroke="none" fill="#E5E5E5" id="ID0.7599614411592484"></path>
+    <path d="M 258.1994 356.7923 L 258.1994 345.735 L 270.0219 345.735 L 270.682 345.81 L 271.1771 346.1401 L 271.3722 346.8302 L 271.3722 355.337 L 271.2221 356.1922 L 270.727 356.6873 L 269.8719 356.8373 L 258.1994 356.7923 Z" stroke-linecap="round" stroke-width="0.6001245379447937" stroke="#2B2B2B" fill="none" id="ID0.19238362507894635"></path>
+    <path stroke-width="0.7455621361732483" d="M 267.529 351.2615 L 263.3166 347.832 L 263.3166 354.7284 L 267.529 351.2615 Z" stroke-linecap="round" stroke="none" fill="#E5E5E5" id="ID0.7599614411592484"></path>
+  </g>
+  <g id="ID0.35245812870562077">
+    <g id="ID0.2210683561861515">
+      <text xml:space="preserve" alignment-baseline="text-before-edge" stroke-width="1" transform="matrix(0.317265 0 0 0.317265 105.535 31.8482)" font-size="22" font-family="Sans Serif" text-anchor="start" fill="#7F7F7F" id="ID0.23766996804624796"><tspan dy="1.13em" style="white-space: pre" x="0">TecOS 3</tspan><tspan dy="1.13em" style="white-space: pre" x="0">Build 1706</tspan><tspan dy="1.13em" style="white-space: pre" x="0"> </tspan><tspan dy="1.13em" style="white-space: pre" x="0">TecOS 3 is a continuation of the TecOS series, made </tspan><tspan dy="1.13em" style="white-space: pre" x="0">by Techno-CAT and annually updated since 2014.</tspan></text>
+      <text xml:space="preserve" alignment-baseline="text-before-edge" stroke-width="1" transform="matrix(0.385403 0 0 0.385403 105.071 19.0438)" font-size="22" font-family="Sans Serif" text-anchor="start" fill="#545454" id="ID0.23766996804624796"><tspan dy="1.13em" style="white-space: pre" x="0">Information</tspan></text>
+    </g>
+    <g id="ID0.9541986077092588">
+      <text xml:space="preserve" alignment-baseline="text-before-edge" stroke-width="1" transform="matrix(0.385403 0 0 0.385403 105.521 78.1938)" font-size="22" font-family="Sans Serif" text-anchor="start" fill="#545454" id="ID0.23766996804624796"><tspan dy="1.13em" style="white-space: pre" x="0">Related</tspan></text>
+      <text xml:space="preserve" alignment-baseline="text-before-edge" stroke-width="1" transform="matrix(0.317265 0 0 0.317265 106.235 90.8982)" font-size="22" font-family="Sans Serif" text-anchor="start" fill="#7F7F7F" id="ID0.23766996804624796"><tspan dy="1.13em" style="white-space: pre" x="0">TecOS 1 - https://scratch.mit.edu/projects/26559652/</tspan><tspan dy="1.13em" style="white-space: pre" x="0">TecOS 2 - https://scratch.mit.edu/projects/59094252/</tspan></text>
+    </g>
+    <g id="ID0.5473427753895521">
+      <g id="ID0.8627808382734656">
+        <text xml:space="preserve" alignment-baseline="text-before-edge" stroke-width="1" transform="matrix(0.270323 0 0 0.270323 24.4906 78.739)" font-size="22" font-family="Sans Serif" text-anchor="start" fill="#B2B2B2" id="ID0.23766996804624796"><tspan dy="1.13em" style="white-space: pre" x="0">View basic information</tspan></text>
+        <text xml:space="preserve" alignment-baseline="text-before-edge" stroke-width="1" transform="matrix(0.270323 0 0 0.270323 27.2906 85.789)" font-size="22" font-family="Sans Serif" text-anchor="start" fill="#B2B2B2" id="ID0.23766996804624796"><tspan dy="1.13em" style="white-space: pre" x="0">about your computer</tspan></text>
+      </g>
+      <text xml:space="preserve" alignment-baseline="text-before-edge" stroke-width="1" transform="matrix(0.317265 0 0 0.317265 23.9345 66.3482)" font-size="22" font-family="Sans Serif" text-anchor="start" fill="#E5E5E5" id="ID0.23766996804624796"><tspan dy="1.13em" style="white-space: pre" x="0">System Information</tspan></text>
+      <path stroke-width="1.2298299074172974" d="M 57.8056 29.4274 C 62.1912 29.4274 66.1648 31.2082 69.0426 34.086 C 71.9204 36.9638 73.7012 40.9374 73.7012 45.323 C 73.7012 49.7086 71.9204 53.6821 69.0426 56.5599 C 66.1648 59.4377 62.1912 61.2185 57.8056 61.2185 C 53.42 61.2185 49.4464 59.4377 46.5686 56.5599 C 43.6908 53.6821 41.9101 49.7086 41.9101 45.323 C 41.9101 40.9374 43.6908 36.9638 46.5686 34.086 C 49.4464 31.2082 53.42 29.4274 57.8056 29.4274 Z" stroke="none" fill="url(#grad_2-.2298299074172974,0,0,1.2298299074172974,-131.25,-166.3)" id="ID0.20890873204916716"></path>
+      <path stroke-width="1.6700225465963545" d="M 57.7382 29.3506 C 61.2253 29.3625 64.8701 30.6856 67.6802 32.8281 C 69.8001 34.4413 71.5715 37.2351 71.542 39.9526 C 71.5124 42.6531 70.0005 45.1264 67.5076 46.9075 C 65.0164 48.6886 61.5769 49.7912 57.7793 49.7912 C 53.9816 49.7912 50.5421 48.6886 48.0509 46.9075 C 45.558 45.1264 44.0511 42.6531 44.0166 39.9526 C 43.9821 37.2487 45.7848 34.5193 47.8783 32.9129 C 50.6588 30.7738 54.2577 29.3913 57.7382 29.3506 Z" stroke="none" fill="url(#grad_3-.6433072090148926,0,0,1.696317195892334,-381.6,-532.3)" id="ID0.9534188765101135"></path>
+      <image style="image-rendering: optimizespeed; image-rendering: pixelated;" stroke-width="1" transform="matrix(11.447667121887207,0,0,4.242912769317627,22.35,68.15)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAFklEQVR42mNhYGBgZcACWBhwAHpIAAALpAAeB+mjkwAAAC10RVh0U29mdHdhcmUAYnkuYmxvb2RkeS5jcnlwdG8uaW1hZ2UuUE5HMjRFbmNvZGVyqAZ/7gAAAABJRU5ErkJggg==" height="6" width="6" id="ID0.9624075279571116"></image>
+      <text xml:space="preserve" alignment-baseline="text-before-edge" stroke-width="1" transform="matrix(0.928174 0 0 0.928174 53.8063 27.0373)" font-size="22" font-family="Serif" text-anchor="start" fill="#FFFFFF" id="ID0.8837750777602196"><tspan dy="1.25em" style="white-space: pre" x="0">i</tspan></text>
+    </g>
+  </g>
+</svg>

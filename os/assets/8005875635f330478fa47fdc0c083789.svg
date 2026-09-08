@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="481.6217014571044" height="361.6217014571044" viewBox="-0.8108507285522076 -0.8108507285522076 481.6217014571044 361.6217014571044">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#9A9B91" stop-opacity="1"/>
+      <stop offset="1" stop-color="#EFEFEC" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,4.5,20" y2="114.25" x2="129.25" x1="129.25" y1="85.25" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9A9B91" stop-opacity="1"/>
+      <stop offset="1" stop-color="#EFEFEC" stop-opacity="1"/>
+    </linearGradient></defs>
+  
+  <path id="ID0.850881461519748" fill="#E6E6E3" stroke="none" d="M 0 0 L 480 0 L 480 360 L 0 360 L 0 0 Z" stroke-width="1"/>
+  <path id="ID0.1897387895733118" fill="#C2C4A8" stroke="none" stroke-linecap="round" d="M 169.0653 85.4083 L 332.3153 85.4083 L 332.3153 114.0083 L 169.0653 114.0083 L 169.0653 85.4083 Z " stroke-width="1.6217014571044153"/>
+  <path id="shapePath1" fill="#C2C4A8" stroke="none" d="M 345.747 85.4336 L 301.4906 85.4336 C 299.7755 85.4336 298.3785 86.8249 298.3785 88.5349 L 298.3785 110.9252 C 298.3785 112.6352 299.7755 114.0265 301.4906 114.0265 L 345.747 114.0265 C 347.4647 114.0265 348.86 112.6352 348.86 110.9252 L 348.86 88.5357 C 348.86 86.8249 347.4647 85.4336 345.747 85.4336 Z " stroke-width="0.8446784410717851"/>
+  <path id="shapePath1" fill="#C2C4A8" stroke="none" d="M 176.697 85.4336 L 132.4406 85.4336 C 130.7255 85.4336 129.3285 86.8249 129.3285 88.5349 L 129.3285 110.9252 C 129.3285 112.6352 130.7255 114.0265 132.4406 114.0265 L 176.697 114.0265 C 178.4147 114.0265 179.81 112.6352 179.81 110.9252 L 179.81 88.5357 C 179.81 86.8249 178.4147 85.4336 176.697 85.4336 Z " stroke-width="0.8446784410717851"/>
+  <path id="ID0.13114788243547082" fill="#C8CAAE" stroke="url(#grad_1-,0,0,1,4.5,20)" stroke-width="1" stroke-linecap="round" d="M 129.5 86.95 L 130.2 86.05 L 131.1 85.5 L 132.1 85.25 L 346 85.25 L 347.15 85.55 L 348.25 86.35 L 349 87.35 L 349.25 88.55 L 349.25 110.8 L 349 112 L 348.25 113.1 L 347.35 113.8 L 346 114.25 L 132.15 114.25 L 131.05 113.95 L 130.2 113.3 L 129.6 112.5 L 129.25 111.6 L 129.25 87.8 L 129.5 86.95 Z " style="stroke-linejoin: round; stroke-linecap: round;"/>
+</svg>
